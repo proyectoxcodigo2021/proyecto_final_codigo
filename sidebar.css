@@ -28,12 +28,7 @@ header {
     /*background: linear-gradient(to right,  #ffffff 0%,#9fd6e4 100%); */
     background: linear-gradient(to left,  #9cb5c9 0%,#ffffff 100%);
     display: flex;
-    align-items: center;
-}
-
-header h3 {
-    font-weight: bolder;
-    margin-left: -10px;
+    align-items: center;      
 }
 
 .logo {
@@ -59,7 +54,7 @@ header h3 {
     margin-left: 10px;
     padding: 0;
     background-color: white;
-    box-shadow: s;
+    box-shadow: 0 0 10px;
 }
 
 .nav-link li {
@@ -77,20 +72,24 @@ li:last-child{
     text-decoration: none;
     color: black;  
     width: 100%;  
-    padding-left: 10px;     
+    padding-left: 10px;         
 }
 
-/*.nav-links:hover{
+i {
+    color: blue;
+}
+
+i:hover {
     color: white;
-}*/
+}
 
 .right-side {
     float: right;    
 }   
 
-.azul {
+/*.azul {
     color: #0080d3;
-}
+}*/
 
 
 /*.right-side:hover {
@@ -101,5 +100,19 @@ li:hover {
     /*background: linear-gradient(to bottom,  #0051bc 0%,#0080d3 40%,#009fe2 100%);*/
     background: linear-gradient(to left,  #9cb5c9 0%,#ffffff 100%); 
     width: 100%;
-    /*color:white;*/
+    color:white;
 }
+
+/*Estilo 2*/
+
+.nav-links:hover{
+    color: white;
+}
+
+li:hover {
+    background: linear-gradient(to bottom,  #0051bc 0%,#0080d3 40%,#009fe2 100%);    
+    width: 100%;
+    color:white;
+}
+
+
