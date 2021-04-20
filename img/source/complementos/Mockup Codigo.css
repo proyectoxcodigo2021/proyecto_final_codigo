@@ -1,0 +1,572 @@
+@charset "utf-8";
+	.Pass_2_
+{
+	background-image : url(Pass_2_.png);
+	background-repeat : no-repeat;
+}
+.Sign_In_1_
+{
+	background-image : url(Sign_In_1_.png);
+	background-repeat : no-repeat;
+}
+.Email_2_
+{
+	background-image : url(Email_2_.png);
+	background-repeat : no-repeat;
+}
+.button_2_
+{
+	background-image : url(button_2_.png);
+	background-repeat : no-repeat;
+}
+.text_2_
+{
+	background-image : url(text_2_.png);
+	background-repeat : no-repeat;
+}
+.remember_2_
+{
+	background-image : url(remember_2_.png);
+	background-repeat : no-repeat;
+}
+.Estilodecarcternormal43
+{
+	font-family : Akrobat;
+	font-weight : bold;
+	font-size : 30px;
+	letter-spacing : 0.3px;
+	color : #323232;
+	color : rgb(50, 50, 50);
+}
+.Estilodecarcternormal32
+{
+	font-family : Akrobat;
+	font-size : 20px;
+	color : #838383;
+	color : rgb(131, 131, 131);
+}
+.Estilodecarcternormal40
+{
+	font-family : Akrobat;
+	font-size : 30px;
+	letter-spacing : 0.3px;
+	color : #323232;
+	color : rgb(50, 50, 50);
+}
+.Estilodecarcternormal41
+{
+	font-family : Akrobat;
+	font-weight : bold;
+	font-size : 30px;
+	letter-spacing : 0.3px;
+	color : #323232;
+	color : rgb(50, 50, 50);
+}
+.Estilodecarcternormal34
+{
+	font-family : Akrobat;
+	font-size : 20px;
+	color : #838383;
+	color : rgb(131, 131, 131);
+}
+.Estilodecarcternormal37
+{
+	font-family : Akrobat;
+	font-weight : bold;
+	font-size : 30px;
+	letter-spacing : 0.3px;
+	color : #323232;
+	color : rgb(50, 50, 50);
+}
+.Estilodecarcternormal31
+{
+	font-family : Akrobat;
+	font-size : 26px;
+	color : #838383;
+	color : rgb(131, 131, 131);
+}
+.Estilodecarcternormal36
+{
+	font-family : Akrobat;
+	font-size : 30px;
+	letter-spacing : 0.3px;
+	color : #323232;
+	color : rgb(50, 50, 50);
+}
+.Estilodecarcternormal33
+{
+	font-family : Akrobat;
+	font-size : 20px;
+	color : #838383;
+	color : rgb(131, 131, 131);
+}
+.Estilodecarcternormal42
+{
+	font-family : Akrobat;
+	font-size : 30px;
+	letter-spacing : 0.3px;
+	color : #323232;
+	color : rgb(50, 50, 50);
+}
+.Estilodecarcternormal39
+{
+	font-family : Akrobat;
+	font-weight : bold;
+	font-size : 30px;
+	letter-spacing : 0.3px;
+	color : #323232;
+	color : rgb(50, 50, 50);
+}
+.Estilodecarcternormal38
+{
+	font-family : Akrobat;
+	font-size : 30px;
+	letter-spacing : 0.3px;
+	color : #323232;
+	color : rgb(50, 50, 50);
+}
+.Estilodecarcternormal35
+{
+	font-family : Akrobat;
+	font-size : 35px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.Estilodecarcternormal44
+{
+	font-family : Akrobat;
+	font-size : 55px;
+	letter-spacing : 0.55px;
+	color : #323232;
+	color : rgb(50, 50, 50);
+}
+.Estilodecarcternormal52
+{
+	font-family : Akrobat;
+	font-size : 20px;
+	color : #838383;
+	color : rgb(131, 131, 131);
+}
+.Estilodecarcternormal45
+{
+	font-family : Akrobat;
+	font-size : 20px;
+	letter-spacing : 0.2px;
+	color : #323232;
+	color : rgb(50, 50, 50);
+}
+.Estilodecarcternormal55
+{
+	font-family : Akrobat;
+	font-size : 35px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.Estilodecarcternormal48
+{
+	font-family : Akrobat;
+	font-size : 20px;
+	letter-spacing : 0.2px;
+	color : #323232;
+	color : rgb(50, 50, 50);
+}
+.Estilodecarcternormal47
+{
+	font-family : Akrobat;
+	font-size : 20px;
+	letter-spacing : 0.2px;
+	color : #323232;
+	color : rgb(50, 50, 50);
+}
+.Estilodecarcternormal53
+{
+	font-family : Akrobat;
+	font-size : 20px;
+	color : #838383;
+	color : rgb(131, 131, 131);
+}
+.Estilodecarcternormal50
+{
+	font-family : Akrobat;
+	font-size : 20px;
+	letter-spacing : 0.2px;
+	color : #323232;
+	color : rgb(50, 50, 50);
+}
+.Estilodecarcternormal54
+{
+	font-family : Akrobat;
+	font-size : 20px;
+	color : #838383;
+	color : rgb(131, 131, 131);
+}
+.Estilodecarcternormal46
+{
+	font-family : Akrobat;
+	font-size : 20px;
+	letter-spacing : 0.2px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.Estilodecarcternormal56
+{
+	font-family : Akrobat;
+	font-size : 55px;
+	letter-spacing : 0.55px;
+	color : #323232;
+	color : rgb(50, 50, 50);
+}
+.Estilodecarcternormal51
+{
+	font-family : Akrobat;
+	font-size : 20px;
+	color : #838383;
+	color : rgb(131, 131, 131);
+}
+.Estilodecarcternormal58
+{
+	font-family : Akrobat;
+	font-weight : bold;
+	font-size : 31px;
+	color : #3C3C3C;
+	color : rgb(60, 60, 60);
+}
+.Estilodecarcternormal59
+{
+	font-family : Akrobat;
+	font-weight : bold;
+	font-size : 31px;
+	color : #3C3C3C;
+	color : rgb(60, 60, 60);
+}
+.Estilodecarcternormal49
+{
+	font-family : Akrobat;
+	font-size : 20px;
+	letter-spacing : 0.2px;
+	color : #323232;
+	color : rgb(50, 50, 50);
+}
+.Estilodecarcternormal57
+{
+	font-family : Akrobat;
+	font-weight : bold;
+	font-size : 31px;
+	color : #009BFF;
+	color : rgb(0, 155, 255);
+}
+.Estilodecarcternormal4
+{
+	font-family : Akrobat;
+	font-size : 14px;
+	color : #606060;
+	color : rgb(96, 96, 96);
+}
+.Estilodecarcternormal1
+{
+	font-family : Akrobat;
+	font-size : 17px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal2
+{
+	font-family : Akrobat;
+	font-size : 17px;
+	color : #005EE3;
+	color : rgb(0, 94, 227);
+}
+.Estilodecarcternormal3
+{
+	font-family : Akrobat;
+	font-size : 14px;
+	color : #606060;
+	color : rgb(96, 96, 96);
+}
+.Estilodecarcternormal
+{
+	font-family : Akrobat;
+	font-size : 13px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal5
+{
+	font-family : Akrobat;
+	font-size : 26px;
+	color : #4D4D4D;
+	color : rgb(77, 77, 77);
+}
+.Estilodecarcternormal6
+{
+	font-family : Akrobat;
+	font-size : 26px;
+	color : #4D4D4D;
+	color : rgb(77, 77, 77);
+}
+.Estilodecarcternormal8
+{
+	font-family : Akrobat;
+	font-size : 26px;
+	color : #4D4D4D;
+	color : rgb(77, 77, 77);
+}
+.Estilodecarcternormal11
+{
+	font-family : Akrobat;
+	font-size : 20px;
+	color : #838383;
+	color : rgb(131, 131, 131);
+}
+.Estilodecarcternormal10
+{
+	font-family : Akrobat;
+	font-size : 20px;
+	color : #838383;
+	color : rgb(131, 131, 131);
+}
+.Estilodecarcternormal9
+{
+	font-family : Akrobat;
+	font-size : 25px;
+	color : #838383;
+	color : rgb(131, 131, 131);
+}
+.Estilodecarcternormal14
+{
+	font-family : Akrobat;
+	font-size : 55px;
+	letter-spacing : 0.55px;
+	color : #323232;
+	color : rgb(50, 50, 50);
+}
+.Estilodecarcternormal12
+{
+	font-family : Akrobat;
+	font-size : 20px;
+	color : #838383;
+	color : rgb(131, 131, 131);
+}
+.Estilodecarcternormal13
+{
+	font-family : Akrobat;
+	font-size : 35px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.Estilodecarcternormal18
+{
+	font-family : Akrobat;
+	font-size : 14px;
+	color : #005EE3;
+	color : rgb(0, 94, 227);
+}
+.Estilodecarcternormal16
+{
+	font-family : Akrobat;
+	font-size : 14px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.Estilodecarcternormal17
+{
+	font-family : Akrobat;
+	font-size : 14px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.Estilodecarcternormal15
+{
+	font-family : Akrobat;
+	font-size : 14px;
+	color : #000000;
+	color : rgb(0, 0, 0);
+}
+.Estilodecarcternormal21
+{
+	font-family : Akrobat;
+	font-size : 14px;
+	color : #005EE3;
+	color : rgb(0, 94, 227);
+}
+.Estilodecarcternormal20
+{
+	font-family : Akrobat;
+	font-size : 14px;
+	color : #005EE3;
+	color : rgb(0, 94, 227);
+}
+.Estilodecarcternormal19
+{
+	font-family : Akrobat;
+	font-size : 14px;
+	color : #005EE3;
+	color : rgb(0, 94, 227);
+}
+.Estilodecarcternormal22
+{
+	font-family : Akrobat;
+	font-size : 14px;
+	color : #005EE3;
+	color : rgb(0, 94, 227);
+}
+.Estilodecarcternormal23
+{
+	font-family : Akrobat;
+	font-size : 14px;
+	color : #005EE3;
+	color : rgb(0, 94, 227);
+}
+.Estilodecarcternormal24
+{
+	font-family : Akrobat;
+	font-size : 14px;
+	color : #FFFFFF;
+	color : rgb(255, 255, 255);
+}
+.Estilodecarcternormal7
+{
+	font-family : Akrobat;
+	font-size : 26px;
+	color : #4D4D4D;
+	color : rgb(77, 77, 77);
+}
+.Estilodecarcternormal27
+{
+	font-family : Akrobat;
+	font-size : 12px;
+	color : #005EE3;
+	color : rgb(0, 94, 227);
+}
+.Estilodecarcternormal26
+{
+	font-family : Akrobat;
+	font-weight : bold;
+	font-size : 9px;
+	color : #494949;
+	color : rgb(73, 73, 73);
+}
+.Estilodecarcternormal25
+{
+	font-family : Akrobat;
+	font-size : 12px;
+	color : #005EE3;
+	color : rgb(0, 94, 227);
+}
+.Estilodecarcternormal30
+{
+	font-family : Akrobat;
+	font-weight : bold;
+	font-size : 35px;
+	color : #1C1C1C;
+	color : rgb(28, 28, 28);
+}
+.Estilodecarcternormal29
+{
+	font-family : Akrobat;
+	font-size : 19px;
+	color : #464646;
+	color : rgb(70, 70, 70);
+}
+.Estilodecarcternormal28
+{
+	font-family : Akrobat;
+	font-weight : bold;
+	font-size : 9px;
+	color : #494949;
+	color : rgb(73, 73, 73);
+}
+.Estilodecarcternormal60
+{
+	font-family : Akrobat;
+	font-size : 35px;
+	color : #141414;
+	color : rgb(20, 20, 20);
+}
+.Estilodecarcternormal63
+{
+	font-family : Akrobat;
+	font-weight : bold;
+	font-size : 31px;
+	color : #3C3C3C;
+	color : rgb(60, 60, 60);
+}
+.Estilodecarcternormal69
+{
+	font-family : Akrobat;
+	font-weight : bold;
+	font-size : 31px;
+	color : #3C3C3C;
+	color : rgb(60, 60, 60);
+}
+.Estilodecarcternormal71
+{
+	font-family : Akrobat;
+	font-weight : bold;
+	font-size : 31px;
+	color : #3C3C3C;
+	color : rgb(60, 60, 60);
+}
+.Estilodecarcternormal70
+{
+	font-family : Akrobat;
+	font-weight : bold;
+	font-size : 31px;
+	color : #3C3C3C;
+	color : rgb(60, 60, 60);
+}
+.Estilodecarcternormal64
+{
+	font-family : Akrobat;
+	font-weight : bold;
+	font-size : 31px;
+	color : #3C3C3C;
+	color : rgb(60, 60, 60);
+}
+.Estilodecarcternormal66
+{
+	font-family : Akrobat;
+	font-weight : bold;
+	font-size : 31px;
+	color : #3C3C3C;
+	color : rgb(60, 60, 60);
+}
+.Estilodecarcternormal67
+{
+	font-family : Akrobat;
+	font-size : 75px;
+	color : #141414;
+	color : rgb(20, 20, 20);
+}
+.Estilodecarcternormal68
+{
+	font-family : Mohave;
+	font-weight : bold;
+	font-size : 48px;
+	color : #999999;
+	color : rgb(153, 153, 153);
+}
+.Estilodecarcternormal62
+{
+	font-family : Akrobat;
+	font-weight : bold;
+	font-size : 31px;
+	color : #3C3C3C;
+	color : rgb(60, 60, 60);
+}
+.Estilodecarcternormal65
+{
+	font-family : Akrobat;
+	font-weight : bold;
+	font-size : 31px;
+	color : #3C3C3C;
+	color : rgb(60, 60, 60);
+}
+.Estilodecarcternormal61
+{
+	font-family : Akrobat;
+	font-weight : bold;
+	font-size : 31px;
+	color : #009BFF;
+	color : rgb(0, 155, 255);
+}
