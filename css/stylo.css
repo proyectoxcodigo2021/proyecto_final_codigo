@@ -1,0 +1,25 @@
+
+body{
+    overflow-x: hidden;
+}
+.imgFondo{
+    /* background-image: url("../assets/img/imagen_fondo-01.png"); */
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    position: absolute;
+    background-position: center;
+    background-attachment: fixed;
+    z-index: -5;
+    
+}
+
+.fondoFormulario{
+    background-color: rgba(255, 255, 255, 0.76);
+    border-radius: 20px;
+    height: 620px;
+}
+
+.nav-transparent{
+    background-color: rgba(228, 228, 228, 0.384) !important;
+}
